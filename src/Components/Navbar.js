@@ -458,16 +458,16 @@ function Navbar() {
       </Box>
       <Box
         display={{
-          base: "flex",
-          sm: "flex",
-          md: "flex",
-          lg: "flex",
-          xl: "flex",
+          // base: "flex",
+          // sm: "flex",
+          // md: "flex",
+          // lg: "flex",
+          // xl: "flex",
         }}
         mt={{ base: "105px", sm: "column", md: "column", lg: "120", xl: "row" }}
         h={{ base: "500px", lg: "550px" }}
-        w={{base:'300%', lg:'100%'}}
-        p='2px'
+        w={{base:'1160px', lg:'100%', md:'100%', sm:'100%'}}
+        
         overflow="hidden"
         position="relative"
       >
