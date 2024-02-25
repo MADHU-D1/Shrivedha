@@ -1,0 +1,37 @@
+ /* Home Navbar */
+.appjs{
+  font-family: poppins;
+}
+
+
+.tracking-in-expand-fwd-top {
+  animation: tracking-in-expand-fwd-top 0.8s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+}
+
+@keyframes tracking-in-expand-fwd-top {
+  0% {
+    letter-spacing: -0.5em;
+    transform: translateY(-50%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  
+  }
+}
+
+
+ /* .style{
+  list-style:none;
+
+} */
+
+.menuItem:hover{
+ 
+  border-bottom: 2px solid #ff5c23;
+  font-weight:700;
+} 
+
+
+

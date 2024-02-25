@@ -1,0 +1,28 @@
+.material{
+    font-weight: 600;
+    color:black;
+    list-style:none;
+    
+    
+}
+
+.title{
+    font-weight:600;
+    list-style:none;
+}
+
+
+/* YourComponent.css */
+/* YourComponent.css */
+/* .scale-up-center {
+    -webkit-animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+  } */
+  
+  .scale-up-center-on-hover:hover {
+    -webkit-animation: scale-up-center 0.4s cubic-bezier(0.300, 0.500, 0.500, 1.00) both;
+    animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    transform: scale(1.1); 
+  }
+  
+
