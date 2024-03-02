@@ -9,6 +9,7 @@ import {
 import React from "react";
 import Loginform from "./Loginform";
 
+
 function Contact() {
   return (
     <Box mt={{base:"0px", lg:"0px"}} ml={{base:"200px", lg:"0px"}}>
@@ -55,11 +56,14 @@ function Contact() {
           </Box>
           <Box>
             <Loginform />
+           
           </Box>
           </Box>
+          
         </Box>
       </Box>
     </Center>
+    
     </Box>
   );
 }

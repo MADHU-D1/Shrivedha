@@ -55,7 +55,7 @@ import { Link } from "react-router-dom";
       
       <Box  mt="40px" w={{base:"1110px",lg:"100%", sm:'100%', md:'70%'}}>
       <Center>
-      <Box mt="30px" mb='-10px' color='#b7b2bf' fontSize="30px" fontWeight={600}>
+      <Box mt="30px" mb='-10px' color='red' fontSize="30px" fontWeight={600}>
         <Text>Complete Ducting Solutions</Text>
       </Box>
       </Center>
